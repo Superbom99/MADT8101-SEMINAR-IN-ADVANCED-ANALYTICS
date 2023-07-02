@@ -10,4 +10,4 @@
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
 - [x] [Chapter 7 - Churn Predition](./Homework%2008%20-%20Churn%20Predition)  
-[![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-RFM-blue)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Logistic--Regression-orange)](#) [![](https://img.shields.io/badge/-XGBoost-orange)](#) [![](https://img.shields.io/badge/-LightGBM-orange)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
+[![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Logistic--Regression-orange)](#) [![](https://img.shields.io/badge/-XGBoost-orange)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
