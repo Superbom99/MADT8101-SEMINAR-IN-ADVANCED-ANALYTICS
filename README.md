@@ -9,5 +9,5 @@
 - [x] [Workshop 3 - Customer Lifetime Values](./Workshop%202%20-%20Lifetime%20of%20Single%20Values)  
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
-- [x] [Workshop 3 - Chapter 7 Churn Scoring](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/8322a6f769767ce3f6b3eb0aaaef5e32fc478002/Chapter%207%20-%20Churn%20Scoring))  
+- [x] [Workshop 4 - Churn Scoring](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/8322a6f769767ce3f6b3eb0aaaef5e32fc478002/Chapter%207%20-%20Churn%20Scoring))  
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Logistic--Regression-orange)](#) [![](https://img.shields.io/badge/-XGBoost-orange)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
