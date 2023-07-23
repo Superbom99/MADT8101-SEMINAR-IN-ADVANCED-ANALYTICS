@@ -8,7 +8,7 @@
       
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
-- [x] [Workshop 3 - Customer Lifetime Values](./Workshop%202%20-%20Lifetime%20of%20Single%20Values)
+- [x] [Workshop 3 - Customer Lifetime Values](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/main/Workshop%203%20-%20Customer%20Lifetime%20Values)
 
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
