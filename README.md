@@ -24,4 +24,6 @@
 
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 
-- [x] [Tutorial Clip ( 7 MIN )]
+- [x] [Tutorial Clip ( 7 MIN )](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/b57c1d2f68de1a41d59bd417b13a8e892fe5bd76/Tutorial%20Clip)
+
+[![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](#) 
