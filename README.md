@@ -1,4 +1,4 @@
-# MADT8101-Customer-ANALYTICS (65104204020)
+# MADT8101 SEMINAR IN ADVANCED ANALYTICS (65104204020)
 
 - [x] [Workshop 1 - Customer Data Platform](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/main/Workshop%201%20-%20Customer%20Data%20Platform)
 
