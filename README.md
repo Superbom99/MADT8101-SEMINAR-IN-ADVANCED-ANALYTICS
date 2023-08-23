@@ -26,4 +26,4 @@
 
 - [x] [Tutorial Clip](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/b57c1d2f68de1a41d59bd417b13a8e892fe5bd76/Tutorial%20Clip)
 
-[![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](#) 
+![Generic badge](https://img.shields.io/badge/youtube-red)
