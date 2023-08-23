@@ -16,7 +16,7 @@
 
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Logistic--Regression-orange)](#) [![](https://img.shields.io/badge/-XGBoost-orange)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 
-- [x] [Workshop 5 - Voice of Customer Analytics] (https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/14bd1c3ee8ef7112df63acec9a79e0490396c97c/Workshop%205%20-%20Voice%20of%20Customer%20Analytics)
+- [x] [Workshop 5 - Voice of Customer Analytics](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/14bd1c3ee8ef7112df63acec9a79e0490396c97c/Workshop%205%20-%20Voice%20of%20Customer%20Analytics)
 
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Logistic--Regression-orange)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 
