@@ -17,5 +17,6 @@
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Logistic--Regression-orange)](#) [![](https://img.shields.io/badge/-XGBoost-orange)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 
 - [x] [Workshop 5 - Voice of Customer Analytics]
+[![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Logistic--Regression-orange)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 
 - [x] [Tutorial Clip ( 7 MIN )]
