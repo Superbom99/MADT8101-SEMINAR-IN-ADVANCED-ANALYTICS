@@ -1,9 +1,9 @@
 # Basic Customer Analytics & Single Customer View
-
+![Generic badge](https://img.shields.io/badge/Concept-pink) ![Generic badge](https://img.shields.io/badge/Presentation-Gold)
 ## Let's break down each concept:
 
 ### Basic Customer Analytics:
-Customer analytics involves the process of collecting, analyzing, and interpreting data related to customer interactions and behaviors. The goal of customer analytics is to gain insights into customer preferences, behaviors, and needs in order to make informed business decisions and improve customer relationships. Basic customer analytics might include:
+Customer analytics involves the process of collecting, analyzing, and interpreting data related to customer interactions and behaviors. The goal of customer analytics is to gain insights into customer preferences, behaviors and needs in order to make informed business decisions and improve customer relationships. Basic customer analytics might include:
 Customer Segmentation: Dividing customers into groups based on shared characteristics such as demographics, purchase history, and behavior. This helps tailor marketing efforts and communication to specific segments.
 
 #### - Customer Lifetime Value (CLV)
