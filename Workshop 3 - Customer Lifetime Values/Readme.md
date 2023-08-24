@@ -10,3 +10,24 @@ There are a few different methods to calculate CLV:
 CLV is important because it helps businesses make informed decisions about marketing strategies, customer segmentation, and resource allocation. By understanding the lifetime value of their customers, companies can tailor their marketing efforts to focus on high-value customers, improve customer retention strategies, and allocate budgets effectively to maximize overall profitability.
 
 It's worth noting that while CLV is a valuable metric, it's not the only metric to consider. Customer satisfaction, brand loyalty, and other qualitative factors also play a significant role in a company's success.
+
+## In this section, we'll explore Customer Lifetime Values ​​and Shopee's business.
+![Slide1](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/5b1f7891-b898-431c-8a97-fdbc1ae7556e)
+![Slide2](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/f7524181-928e-4bfd-a91f-6c7a55156aa8)
+![Slide3](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/392a2e63-4d85-48f1-bf08-3f9090c53418)
+![Slide4](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/58c1f82e-b3a7-45c8-97fc-7fa78cbebe76)
+![Slide5](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/8ee7b498-7614-455c-aee9-5cc353a38a6a)
+![Slide6](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/cd8063ab-0bd6-488c-8a18-ef7aa2200136)
+![Slide7](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/79486749-d60a-465d-8032-ad3d423cf4cc)
+![Slide8](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/264d2fd6-451c-4483-b947-3b306d364271)
+![Slide9](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/5df6739c-56e2-4515-b69c-0d32ba6b8570)
+![Slide10](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/a65d3112-3d3c-4671-8ff7-8c9f08c57fc8)
+![Slide11](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/701667a8-91a9-4410-988d-6370f4a4e0c7)
+![Slide12](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/a421c514-1849-4edc-985e-8ac3c93b8e21)
+![Slide13](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/23306833-c7dd-41fa-8a74-7cb70652bbc6)
+![Slide14](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/d55f341d-ecc2-4dba-82b4-b21496c539bd)
+![Slide15](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/4052bce3-0752-482a-ac16-e1b369babc9d)
+![Slide16](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/af8e38c2-0c81-4683-aa88-abd5daf4b2d3)
+![Slide17](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/bae484cb-d9a7-44b1-9344-79b66532dd5a)
+![Slide18](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/b9fffb3b-6e53-4be5-beb6-288ae9c0476c)
+![Slide19](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/dcda21e0-1ea7-41b3-b49b-01f90c30961a)
