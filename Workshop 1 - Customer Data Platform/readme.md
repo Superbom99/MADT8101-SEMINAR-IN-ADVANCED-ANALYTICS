@@ -10,3 +10,17 @@ https://www.tendancehotellerie.fr/IMG/png/hotelappz-cdp-customerdataplatform-th-
 ## Customer single view table
 ![image](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/33a73a82-74ae-48c3-8d78-221181f1780c)
 
+## Key benefits of having a Single Customer View:
+
+1. **Enhanced Customer Understanding:**
+2. **Improved Customer Experience:** 
+3. **Personalized Marketing:**
+4. **Reduced Data Silos:**
+5. **Better Decision-Making:**
+6. **Efficient Customer Support:**
+7. **Cross-Selling and Upselling Opportunities:**
+8. **Consistency in Messaging:**
+9. **Segmentation and Targeting:**
+10. **Regulatory Compliance:**
+
+In conclusion, a Single Customer View brings together data from various sources to provide a holistic understanding of customers. This understanding leads to improved customer experiences, more effective marketing strategies, streamlined operations, and ultimately, better business outcomes. However, it's important to note that implementing a successful SCV strategy requires careful consideration of data privacy, security, and integration challenges.
