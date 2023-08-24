@@ -1,5 +1,5 @@
 # Basic Customer Analytics & Single Customer View
-![Generic badge](https://img.shields.io/badge/Concept-pink) ![Generic badge](https://img.shields.io/badge/Presentation-Gold)
+![Generic badge](https://img.shields.io/badge/Concept-red) ![Generic badge](https://img.shields.io/badge/Presentation-Gold)
 ## Let's break down each concept:
 
 ### Basic Customer Analytics:
