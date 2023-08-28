@@ -19,4 +19,4 @@ Tai Shan is a hotel located in the middle of Ratchaburi
 
 ![image](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/303ac343-9e90-42f0-8c6c-957fff090db8)
 
-We will collect Reviews from Agoda to do it!
+We will collect 50 Reviews from Agoda to do it!
