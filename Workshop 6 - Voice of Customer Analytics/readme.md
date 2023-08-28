@@ -10,4 +10,4 @@ So, Voice of Customer Analytics is like your secret weapon to know exactly what 
 
 Topic Modeling
 **Notebooks:** [Topic Modeling](./NLP_TAI_ZAN_RATCHABURI.ipynb)  
-**Google Colab:** [![Open In Collab](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/10af74b2acd5029162e031d3148892aa3e7a1edf/Workshop%206%20-%20Voice%20of%20Customer%20Analytics/NLP_TAI_ZAN_RATCHABURI.ipynb)
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/10af74b2acd5029162e031d3148892aa3e7a1edf/Workshop%206%20-%20Voice%20of%20Customer%20Analytics/NLP_TAI_ZAN_RATCHABURI.ipynb)
