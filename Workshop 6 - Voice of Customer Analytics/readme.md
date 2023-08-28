@@ -11,3 +11,11 @@ So, Voice of Customer Analytics is like your secret weapon to know exactly what 
 Topic Modeling
 **Notebooks:** [Topic Modeling For TaiZan Hotel](./NLP_FOR_TAIZAN_HOTEL.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/d5cab1c1f169a8b09ea4acdb16bc334a9dad3e69/Workshop%206%20-%20Voice%20of%20Customer%20Analytics/NLP_FOR_TAIZAN_HOTEL.ipynb)
+
+I would show example case with Hotel reviews data from Agoda by using Voice of Customer Analytics
+
+Tai Shan is a hotel located in the middle of Ratchaburi
+
+![image](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/assets/123863768/303ac343-9e90-42f0-8c6c-957fff090db8)
+
+We will collect Reviews from Agoda to do it!
