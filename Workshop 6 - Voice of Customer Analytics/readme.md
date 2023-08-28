@@ -7,3 +7,7 @@ It's like having special tools that help you gather and understand what your cus
 Then comes the fun part – you use this gathered info to make your store even better! If people are loving a particular product, you can make sure to have more of it. If they're not so happy about something, you can figure out how to fix it and give them a better experience.
 
 So, Voice of Customer Analytics is like your secret weapon to know exactly what your customers want and to make them even happier when they shop at your store!
+
+Topic Modeling
+**Notebooks:** [Topic Modeling](./NLP_TAI_ZAN_RATCHABURI.ipynb)  
+**Google Colab:** [![Open In Collab](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/10af74b2acd5029162e031d3148892aa3e7a1edf/Workshop%206%20-%20Voice%20of%20Customer%20Analytics/NLP_TAI_ZAN_RATCHABURI.ipynb)
