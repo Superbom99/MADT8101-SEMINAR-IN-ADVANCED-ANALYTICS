@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
-- [x] [Workshop 2 - Basic Customer Analytics & Customer Single View](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/main/Workshop%202%20-%20Customer%20Single%20View)
+- [x] [Workshop 2 - Basic Customer Analytics & Customer Single View](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/tree/eab3f1aab89bb5588815bab1aa66d77d8890a43e/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View)
       
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
