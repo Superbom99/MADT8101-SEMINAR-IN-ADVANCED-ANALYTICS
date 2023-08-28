@@ -9,6 +9,7 @@ Then comes the fun part – you use this gathered info to make your store even b
 So, Voice of Customer Analytics is like your secret weapon to know exactly what your customers want and to make them even happier when they shop at your store!
 
 Topic Modeling
+
 **Notebooks:** [Topic Modeling For TaiZan Hotel](./NLP_FOR_TAIZAN_HOTEL.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/d5cab1c1f169a8b09ea4acdb16bc334a9dad3e69/Workshop%206%20-%20Voice%20of%20Customer%20Analytics/NLP_FOR_TAIZAN_HOTEL.ipynb)
 
