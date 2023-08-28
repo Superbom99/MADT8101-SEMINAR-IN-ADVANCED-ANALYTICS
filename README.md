@@ -12,7 +12,7 @@
 
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
-- [x] [Workshop 4 - Churn Scoring](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/ab0b38994a7b235ef2199e28fbf7e73384c612f6/Workshop%204%20-%20Churn%20Scoring)
+- [x] [Workshop 4 - Churn Scoring](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/tree/0bf37834518db43e715fbe020a16c7b9976f9560/Workshop%204%20-%20Churn%20Scoring)
 
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Logistic--Regression-orange)](#) [![](https://img.shields.io/badge/-XGBoost-orange)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 
