@@ -16,7 +16,7 @@
 
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Logistic--Regression-orange)](#) [![](https://img.shields.io/badge/-XGBoost-orange)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) 
 
-- [x] [Workshop 5 - Customer Segmentation & Product Recommendation](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/01ada2dddb4eeb673254df1ac3e761ad7c520d8f/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation)
+- [x] [Workshop 5 - Customer Segmentation & Product Recommendation](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/tree/fea776215c7efe767c0988e35b85b13b32d6d54a/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation)
 
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
