@@ -1,5 +1,5 @@
 # Churn Scoring
-![Generic badge](https://img.shields.io/badge/Concept-red) ![Generic badge](https://img.shields.io/badge/Presentation-gold) ![Generic badge](https://img.shields.io/badge/Python-yellow)![Generic badge](https://img.shields.io/badge/XGBoost-red)
+![Generic badge](https://img.shields.io/badge/Concept-red) ![Generic badge](https://img.shields.io/badge/Presentation-gold) ![Generic badge](https://img.shields.io/badge/Python-yellow) ![Generic badge](https://img.shields.io/badge/XGBoost-red)
 
 
 Imagine you have a favorite ice cream shop, and you go there all the time to buy their delicious ice cream. Churn scoring is like predicting whether you might suddenly stop going to that ice cream shop and switch to another one.
