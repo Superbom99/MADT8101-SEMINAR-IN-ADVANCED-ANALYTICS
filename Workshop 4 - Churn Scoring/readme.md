@@ -18,15 +18,15 @@ The first step is to import the libraries that we will need. These include:
 - numpy: for mathematical operations
 - scikit-learn: for machine learning
 
-      import pandas as pd
-      import numpy as np
-      from sklearn.ensemble import RandomForestClassifier
+          import pandas as pd
+          import numpy as np
+          from sklearn.ensemble import RandomForestClassifier
 
 ### Step 2: Load the dataset
 
 The next step is to load the dataset. We can do this using the read_csv() function from the pandas library.
 
-    dataset = pd.read_csv('churn_data.csv')
+          dataset = pd.read_csv('churn_data.csv')
 
 ### Step 3: Explore the dataset
 
@@ -39,9 +39,9 @@ We can explore the dataset using the following commands:
 - describe(): to get a summary of the statistical distribution of the data
 - info(): to get information about the data types and missing values
 
-      dataset.head()
-      dataset.describe()
-      dataset.info()
+            dataset.head()
+            dataset.describe()
+            dataset.info()
 
 ### Step 4: Select the features
 
