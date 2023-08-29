@@ -10,6 +10,8 @@ They take all this information and use it to give you a "churn score." If your c
 
 In a more technical way, churn scoring involves analyzing data about customers to find patterns that might show who's likely to leave. This helps the company take action before you actually stop coming to the shop. So, churn scoring is like a clever way for companies to guess who might stop being their customers and try to keep them happy!
 
+## In this case I will show how to do Simple Churn Scoring by using Python.
+
 ### Step 1: Import the libraries
 
 The first step is to import the libraries that we will need. These include:
