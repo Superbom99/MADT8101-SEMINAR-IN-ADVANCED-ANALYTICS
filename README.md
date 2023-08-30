@@ -20,7 +20,7 @@
 
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
-- [x] [Workshop 6 - Voice of Customer Analytics](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/tree/7a4c5168556b5a20f2681b7bc669551db6a0a556/Workshop%206%20-%20Voice%20of%20Customer%20Analytics)
+- [x] [Workshop 6 - Voice of Customer Analytics](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/tree/aa37ac031030576fa939d72db0793783b7edfbfb/Workshop%206%20-%20Voice%20of%20Customer%20Analytics)
 
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#)  [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
