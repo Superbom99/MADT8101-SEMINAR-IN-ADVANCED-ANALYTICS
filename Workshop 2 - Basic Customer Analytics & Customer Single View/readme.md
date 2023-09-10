@@ -22,3 +22,17 @@ Benefits of an SCV include:
      - Enhanced Marketing Campaigns
 
 ### Both basic customer analytics and Single Customer View contribute to building stronger customer relationships and improving business strategies based on data-driven insights.
+
+#### In this case we will showing you in Supermarket Business
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_001.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_002.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_003.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_004.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_005.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_006.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_007.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_008.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_009.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_010.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_011.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4f2f8c9de40082194512d6e2b3ab0003a8a3eb2f/Workshop%202%20-%20Basic%20Customer%20Analytics%20%26%20Customer%20Single%20View/IMAGE/page_012.jpg)
