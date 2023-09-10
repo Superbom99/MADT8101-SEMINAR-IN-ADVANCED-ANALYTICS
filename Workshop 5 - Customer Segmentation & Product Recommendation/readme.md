@@ -25,7 +25,7 @@ Data:
 
 ## In this case we will show you HDI company data to make Customer Segmentation and Product Recommendation
 
-
+https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_001.jpg
 
 
 
