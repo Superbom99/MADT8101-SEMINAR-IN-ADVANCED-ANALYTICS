@@ -25,12 +25,34 @@ Data:
 
 ## In this case we will show you HDI company data to make Customer Segmentation and Product Recommendation
 
-https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_001.jpg
-
-
-
-
-
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_001.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_002.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_003.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_004.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_005.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_006.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_007.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_008.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_009.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_010.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_011.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_012.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_013.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_014.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_015.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_016.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_017.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_018.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_019.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_020.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_021.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_022.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_023.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_024.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_025.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_026.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_027.jpg)
+![Slide](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/4ff9df9ca38af53a58f82abd584d4e3f907c50dd/Workshop%205%20-%20Customer%20Segmentation%20%26%20Product%20Recommendation/IMAGES/page_028.jpg)
 
 
 
