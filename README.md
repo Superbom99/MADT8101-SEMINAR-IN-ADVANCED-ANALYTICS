@@ -24,6 +24,6 @@
 
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#)  [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)
 
-- [x] [Tutorial Clip](https://github.com/Superbom99/MADT8101-CRM-ANALYTICS/tree/b57c1d2f68de1a41d59bd417b13a8e892fe5bd76/Tutorial%20Clip)
+- [x] [Tutorial Clip](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/tree/2fc4a1d79d765816d452b47361bf6d67d2f824b3/Tutorial%20Clip)
 
 ![Generic badge](https://img.shields.io/badge/youtube-red)
