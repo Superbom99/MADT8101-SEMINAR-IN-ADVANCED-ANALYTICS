@@ -27,3 +27,7 @@
 - [x] [Tutorial Clip](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/tree/2fc4a1d79d765816d452b47361bf6d67d2f824b3/Tutorial%20Clip)
 
 ![Generic badge](https://img.shields.io/badge/youtube-red)
+
+**Click on the image below to watch the video ↓↓↓** ![Generic badge](https://img.shields.io/badge/Click↓↓↓-red)
+
+[![Watch the video](https://github.com/Superbom99/MADT8101-SEMINAR-IN-ADVANCED-ANALYTICS/blob/a157e369aa75fc32f1b5f4e7d2a560276ae850d1/Tutorial%20Clip/VID%20COVER.png)](https://youtu.be/qRjVBPuDluU?si=T5GA7JSNyYl96b15)
