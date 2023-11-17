@@ -71,7 +71,7 @@ We can select the features using the following steps:
       noisy_features = ['customer_name']
       
       # Normalize the features.
-      for feature in churn_related_features:
+      for a feature in churn_related_features:
           dataset[feature] = (dataset[feature] - dataset[feature].mean()) / dataset[feature].std()
 
 ### Step 5: Build the model
@@ -100,6 +100,68 @@ Once the model is built, we need to evaluate its performance. We can do this usi
       accuracy = np.mean(y_pred == y_test)
       precision = np.mean(y_pred[y_test == 1])
       recall = np.mean(y_test[y_pred == 1])
+
+## Churn Scoring Use Case 
+
+### Telecommunications Company
+
+Objective:
+- The telecommunications company wants to identify customers who are at a high risk of churning, i.e., canceling their subscription or switching to a competitor. The goal is to proactively engage with these customers to reduce churn and increase customer retention.
+
+Data:
+
+Customer Information:
+
+-Personal details (name, age, address)
+-Subscription plan details
+-Contract length
+-Monthly usage patterns (call minutes, data usage)
+-Customer service interactions (complaints, support calls)
+-Historical Churn Data:
+
+Information on customers who have previously churned
+Reasons for churn if available
+Approach:
+
+Feature Engineering:
+
+Create relevant features such as tenure (length of time as a customer), average monthly usage, contract type, customer satisfaction scores, and recent interactions with customer service.
+Data Preprocessing:
+
+- Handle missing data and outliers.
+- Encode categorical variables.
+- Normalize or scale numerical features.
+
+Model Selection:
+
+- Choose a machine learning model suitable for binary classification, such as logistic regression, decision trees, or random forests.
+Training the Model:
+
+- Use historical data to train the model. The target variable is whether a customer churned or not.
+
+Evaluation:
+
+- Evaluate the model's performance using metrics like accuracy, precision, recall, and F1-score. Use a validation set or cross-validation to ensure the model generalizes well.
+
+Churn Scoring:
+
+- Apply the trained model to current customers to predict the likelihood of churn for each customer.
+Customer Segmentation:
+
+- Segment customers into different risk categories (low, medium, high churn risk) based on their churn scores.
+Intervention Strategy:
+
+- Design targeted intervention strategies for customers with high churn risk. This might include personalized offers, proactive customer support, or special promotions.
+Monitoring and Iteration:
+
+- Continuously monitor the model's performance and update it as new data becomes available. Adjust intervention strategies based on feedback and results.
+
+Outcome:
+- The telecommunications company can use the churn scoring model to proactively engage with high-risk customers, reduce churn rates, and improve overall customer satisfaction. This approach helps in retaining valuable customers and optimizing marketing efforts by focusing on those who are most likely to churn.
+
+
+
+
 
 
 
